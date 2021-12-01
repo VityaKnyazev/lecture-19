@@ -1,0 +1,3 @@
+DELETE FROM cats;
+DELETE FROM dogs;
+DELETE FROM writers;
